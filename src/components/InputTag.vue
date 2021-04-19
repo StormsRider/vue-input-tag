@@ -224,7 +224,7 @@ export default {
 }
 
 .vue-input-tag-wrapper .input-tag {
-  background-color: #cde69c;
+  background-color: #85E0FF;
   border-radius: 2px;
   border: 1px solid #a5d24a;
   color: #638421;
